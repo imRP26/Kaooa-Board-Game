@@ -11,7 +11,10 @@ A 3D model of an abstract strategy game having Indian roots!
 ************************************************************
 ### Execution Procedure :-
 - ```parcel src/HTML/index.html```
+![ScreenShot](/screenshots/terminal_execution.png)
+<!--
 <img width="911" alt="Screenshot 2023-08-15 at 12 38 15 AM" src="https://github.com/imRP26/Kaooa-Board-Game/assets/104157969/5fddf0c8-7671-454a-88ee-71470286c5ce">
+--->
 
 ************************************************************
 ### Initial Game State :-
