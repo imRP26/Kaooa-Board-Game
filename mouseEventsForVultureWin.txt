@@ -1,0 +1,28 @@
+Crow moved to normalized xPos : -0.008333333333333304 and normalized yPos : 0.6764705882352942
+Vulture moved to normalized xPos : -0.31805555555555554 and normalized yPos : 0.3921568627450981
+Crow moved to normalized xPos : 0.08194444444444438 and normalized yPos : 0.42156862745098034
+Vulture moved to normalized xPos : -0.07222222222222219 and normalized yPos : 0.43137254901960786
+Crow moved to normalized xPos : 0.31666666666666665 and normalized yPos : 0.4068627450980392
+Vulture moved to normalized xPos : -0.11944444444444446 and normalized yPos : 0.2941176470588235
+Crow moved to normalized xPos : 0.125 and normalized yPos : 0.27941176470588236
+Vulture moved to normalized xPos : -0.18611111111111112 and normalized yPos : 0.009803921568627416
+Crow moved to normalized xPos : 0.1875 and normalized yPos : 0.014705882352941124
+Vulture moved to normalized xPos : -0.12638888888888888 and normalized yPos : 0.27941176470588236
+Crow moved to normalized xPos : 0.004166666666666652 and normalized yPos : 0.13725490196078427
+Vulture moved to normalized xPos : -0.07638888888888884 and normalized yPos : 0.4068627450980392
+Crow moved to normalized xPos : -0.18611111111111112 and normalized yPos : 0.009803921568627416
+Vulture moved to normalized xPos : -0.3041666666666667 and normalized yPos : 0.3921568627450981
+Crow selected at normalized xPos : 0.001388888888888884 and normalized yPos : 0.1421568627450981
+Crow moved to normalized xPos : -0.13055555555555554 and normalized yPos : 0.25
+Vulture moved to normalized xPos : -0.002777777777777768 and normalized yPos : 0.1421568627450981
+Crow selected at normalized xPos : -0.19166666666666665 and normalized yPos : -0.019607843137254832
+Crow moved to normalized xPos : -0.13194444444444442 and normalized yPos : 0.24019607843137258
+Vulture moved to normalized xPos : -0.31527777777777777 and normalized yPos : 0.3970588235294118
+Crow selected at normalized xPos : 0.08333333333333326 and normalized yPos : 0.42156862745098034
+Crow moved to normalized xPos : -0.0805555555555556 and normalized yPos : 0.3970588235294118
+Vulture moved to normalized xPos : 0.07499999999999996 and normalized yPos : 0.42156862745098034
+Crow selected at normalized xPos : -0.009722222222222188 and normalized yPos : 0.6813725490196079
+Crow moved to normalized xPos : -0.07638888888888884 and normalized yPos : 0.4068627450980392
+Vulture moved to normalized xPos : -0.30694444444444446 and normalized yPos : 0.42156862745098034
+The Vulture wins!!
+Refresh the page to restart the Game.
